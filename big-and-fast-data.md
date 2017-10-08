@@ -28,6 +28,7 @@ We have worked with the following technologies.
 * Apache Knox
 * Hive, Presto & Impala
 * Sqoop, Ooozie
+* Cloudera Hue
 
 
 
