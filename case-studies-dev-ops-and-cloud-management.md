@@ -1,4 +1,4 @@
-## Dev Ops and Cloud Management
+# Case Studies: Dev Ops and Cloud Management
 
 Our expertise in Cloud Management and Dev Ops originates from our utilisation of the AWS Cloud for our projects since 2010. Since then we have managed multiple project on AWS some of which have hosted 100s of instances in the cloud. Our work on Big Data provided the next kick as we implemented the Cross Cloud Big Data deployment solution GridMine.
 
