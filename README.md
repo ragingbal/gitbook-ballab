@@ -2,7 +2,7 @@
 
 Bal Lab was established in 2011 and has it’s primary engineering operations located in Belgrade, Serbia. Over the past 5 years we have engineered a number of products for startups and large financial institutions alike.
 
-The company now consists of around 40 FTE covering primarily Java, Python, GoLand, UI, iOS and Android Development and Dev Ops.
+The company now consists of around 40 FTE covering primarily Java, Python, GoLang, UI, iOS and Android Development and Dev Ops.
 
 Over the past 5 years our projects have focused on cloud based consumer Applications, Big and Fast Data and Highly Scalable server applications - mainly in the online advertising and financial verticals.
 
