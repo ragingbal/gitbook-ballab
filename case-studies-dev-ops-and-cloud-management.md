@@ -14,7 +14,11 @@ We now offer DevOps as a Service.
 
 ## GridMine
 
-A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
+GridMine provides 15-minute deployment of Big Data Hubs. Any GridMine cluster can be deployed across multiple Cloud Hosting providers, including Amazon AWS and Digital Ocean.
+
+Big Data hubs operated by GridMine support a wide and ever increasing range of Open Source framework and tools.
+
+A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). 
 
 Technologies: Python, Ansible, Apache Ambari.
 
