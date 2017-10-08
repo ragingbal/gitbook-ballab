@@ -26,12 +26,6 @@ We have worked with the following technologies.
 * Elasticsearch & Solr
 * Avro, Parquet, ORC
 * HBase
-* 
-
-
-
-
-
 
 
 
