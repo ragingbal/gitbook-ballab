@@ -6,9 +6,11 @@ segmentation and predictive analytics for banks to channel merchant offers to th
 
 customers. The solution has been deployed in Europe and in the Far East. \(
 
-http://redzebra-analytics.com \). We provided the CTO services and the technology team.
+[http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services and the technology team.
 
 Customer location : UK / Germany
+
+
 
 ● Confidential Customer : A high-performance traffic management and auditing service
 
@@ -36,7 +38,7 @@ Italy
 
 ● GridMine: A product of based on our expertise in big-data and analytics to reduce the
 
-cost and time to delivery of big-data analytics. \( http://gridmine.com \). Product is in
+cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in
 
 launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
@@ -54,7 +56,7 @@ process of being re-purposed for an image recognition and copyright auditing ven
 
 ● Biddly.com - Ongoing : DMP Platform for processing 2-3 billion clickstream events in a
 
-day with real-time customer profiling and analytics \( http://biddly.com \). We provide the
+day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the
 
 CTO services and technical team. Customer location : UK, Spain
 
@@ -62,7 +64,7 @@ CTO services and technical team. Customer location : UK, Spain
 
 collaboration in the Building and Construction industry. Customer Location : US
 
-● DISTRIBOOTED.com - The first App store for the Cloud - \( http://DISTRIBOOTED.com \).
+● DISTRIBOOTED.com - The first App store for the Cloud - \( [http://DISTRIBOOTED.com](http://DISTRIBOOTED.com) \).
 
 Combined point-and-click application deployment and cloud management across
 
