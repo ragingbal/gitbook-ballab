@@ -9,6 +9,7 @@ By H2-2017 we have seen DevOps and Cloud Management Projects delivering nearly 3
 We provide DevOps Consulting and Operations Management as a Service.
 
 * Cloud Migration and Adoption
+  * We can support you in building and implementing your Cloud Adoption Roadmap
 * Enterprise DevOps and Continuous Delivery
 * Infrastructure Automation
 * DevSecOps and Continuous Security
