@@ -8,7 +8,19 @@ We now offer DevOps as a Service.
 
 ## DISTRIBOOTED : The First App Store for the Cloud
 
+![](https://cdn-images-1.medium.com/max/1437/1*S2r17frm7U0MV9a0YPSFVw.png)
+
 [DISTRIBOOTED.com](http://distribooted.com) Combined point-and-click Application deployment and Cloud Management across multiple Cloud Providers. Launching in Alpha, Early October.
+
+
+
+GridMine
+
+A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
+
+Technologies: Python, Ansible, Apache Ambari.
+
+Customer location : UAE, Serbia, Switzerland
 
 ## Dev Ops as a Service
 
