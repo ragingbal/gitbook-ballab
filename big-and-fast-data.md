@@ -12,7 +12,7 @@ Our Services include
 * Roadmap Design and Consulting, 
 * Solution Planning
 * Infrastructure Architecture and Automation
-* Operations Management
+* 24/7 Operations Management and Support
 
 ## Platforms and Technologies
 
