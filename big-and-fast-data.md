@@ -27,8 +27,7 @@ We have worked with the following technologies.
 * Avro, Parquet, ORC
 * Apache Knox
 * Hive, Presto & Impala
-
-Sqoop
+* Sqoop
 
 
 
