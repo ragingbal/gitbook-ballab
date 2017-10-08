@@ -22,6 +22,8 @@ A high-performance traffic management and auditing service combined with micro-p
 
 We provided the CTO services and the technology team. The customer has scaled to multi-million Euro revenue in the 3 years we have been working with them.
 
+Technologies Used: Cassandra, Java Spring, Kafka, ElasticSearch, PHP, Python.
+
 Customer Location : UK
 
 ## Loyalty Solution for Banks
