@@ -1,4 +1,4 @@
-# Dev Ops and Cloud Management
+## Dev Ops and Cloud Management
 
 Our expertise in Cloud Management and Dev Ops originates from our utilisation of the AWS Cloud for our projects since 2010. Since then we have managed multiple project on AWS some of which have hosted 100s of instances in the cloud. Our work on Big Data provided the next kick as we implemented the Cross Cloud Big Data deployment solution GridMine.
 
@@ -12,9 +12,7 @@ We now offer DevOps as a Service.
 
 [DISTRIBOOTED.com](http://distribooted.com) Combined point-and-click Application deployment and Cloud Management across multiple Cloud Providers. Launching in Alpha, Early October.
 
-
-
-GridMine
+## GridMine
 
 A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
