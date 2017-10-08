@@ -1,18 +1,16 @@
 Example of Deep Tech Projects are
 
-● RedZebra Analytics : A platform for financial transaction processing, customer
+## RedZebra Analytics
 
-segmentation and predictive analytics for banks to channel merchant offers to their
-
-customers. The solution has been deployed in Europe and in the Far East. \(
-
-[http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services and the technology team.
+A platform for financial transaction processing, customer segmentation and predictive analytics for banks to channel merchant offers to their customers. The solution has been deployed in Europe and in the Far East. \( [http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services and the technology team.
 
 Customer location : UK / Germany
 
 
 
-● Confidential Customer : A high-performance traffic management and auditing service
+## High-Performance Traffic Management 
+
+A high-performance traffic management and auditing service
 
 combined with micro-payment payment management. This service generates 100s of
 
