@@ -22,7 +22,7 @@ We have worked with the following technologies.
 * Apache Flume
 * Apache Ignite
 * Kite SDK
-* Apache Cassandra
+* Apache Cassandra, Hbase and Kudu
 * Elasticsearch & Solr
 * Avro, Parquet, ORC
 * HBase
