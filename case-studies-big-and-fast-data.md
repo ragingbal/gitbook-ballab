@@ -6,21 +6,13 @@ A platform for financial transaction processing, customer segmentation and predi
 
 Customer location : UK / Germany
 
+## High-Performance Traffic Management
 
+A high-performance traffic management and auditing service combined with micro-payment payment management. This service generates 100s of thousands of transactions annually and channels millions of visits every day. 
 
-## High-Performance Traffic Management 
+We provided the CTO services and the technology team. The customer has scaled to multi-million Euro revenue in the 3 years we have been working with them. 
 
-A high-performance traffic management and auditing service
-
-combined with micro-payment payment management. This service generates 100s of
-
-thousands of transactions annually and channels millions of visits every day. We
-
-provided the CTO services and the technology team. The customer has scaled to
-
-multi-million Euro revenue in the 3 years we have been working with them. Customer
-
-location : UK
+Customer Location : UK
 
 ● Confidential Customer : Mobile Banking on-device application for a leading Publicly
 
