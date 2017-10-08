@@ -4,8 +4,6 @@ Our expertise in Cloud Management and Dev Ops originates from our utilisation of
 
 The GridMine technology has since been introduced into DISTRIBOOTED the industry's first and only Cross-Cloud Application Market Place.
 
-
-
 ## DISTRIBOOTED : The First App Store for the Cloud
 
 [DISTRIBOOTED.com](http://distribooted.com) Combined point-and-click Application deployment and Cloud Management across multiple Cloud Providers. Launching in Alpha, Early October.
@@ -13,6 +11,10 @@ The GridMine technology has since been introduced into DISTRIBOOTED the industry
 
 
 ## Dev Ops as a Service
+
+We now offer Dev Ops and Cloud Migration consulting as a service independent of our Application Developers. The first customers have been European Financial Institutions and IoT service providers. On the FinTech side the services are often around Big Data Implementations both In-House and in the Cloud. For IoT 
+
+## 
 
 
 
