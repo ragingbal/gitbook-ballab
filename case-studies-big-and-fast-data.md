@@ -30,15 +30,17 @@ A product of based on our expertise in big-data and analytics to reduce the cost
 
 Customer location : UAE, Serbia, Switzerland
 
-## Eye:Li - Machine Learning based Image Rating and Categorization
+## Machine Learning Based Image Rating and Categorization
 
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
-Biddly.com - Ongoing :
+## Advertising DMP Platform
 
-DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the CTO services and technical team.
+DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics. We provide the CTO services and technical team.
 
 Customer location : UK, Spain
+
+
 
 Confidential Customer - Ongoing : High speed, High Volume data transfer and project
 
