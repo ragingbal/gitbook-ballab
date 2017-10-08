@@ -1,21 +1,3 @@
-# Case Studies
-
-Our work is split about 40:60 between consumer facing products and deep technology projects in big data and analytics.
-
-## Voice Publishing
-
-A voice publishing social network which is available on ioS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with facebook, server side streaming etc \( [http://www.voicebo.com](http://www.voicebo.com) \). Customer location : US / Australia
-
-## Crowd Funding
-
- A "crowd-funding for good" service which works extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\) - [http://www.kriticalmass.com](http://www.kriticalmass.com) . Customer location : UK
-
-## Sharing Economy
-
-This project is in gestation after launch. An AirBnB like service but primarily for swapping holiday use between homeowners. Extensive integration with linkedin which serves as a primary trust mechanism. Support for geolocation house profiles and communication system between transaction parties. [http://trustedswap.com](http://trustedswap.com)
-
-Customer location : UK
-
 Example of Deep Tech Projects are
 
 ● RedZebra Analytics : A platform for financial transaction processing, customer
@@ -24,7 +6,7 @@ segmentation and predictive analytics for banks to channel merchant offers to th
 
 customers. The solution has been deployed in Europe and in the Far East. \(
 
-[http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services and the technology team.
+http://redzebra-analytics.com \). We provided the CTO services and the technology team.
 
 Customer location : UK / Germany
 
@@ -54,7 +36,7 @@ Italy
 
 ● GridMine: A product of based on our expertise in big-data and analytics to reduce the
 
-cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in
+cost and time to delivery of big-data analytics. \( http://gridmine.com \). Product is in
 
 launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
@@ -72,7 +54,7 @@ process of being re-purposed for an image recognition and copyright auditing ven
 
 ● Biddly.com - Ongoing : DMP Platform for processing 2-3 billion clickstream events in a
 
-day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the
+day with real-time customer profiling and analytics \( http://biddly.com \). We provide the
 
 CTO services and technical team. Customer location : UK, Spain
 
@@ -80,7 +62,7 @@ CTO services and technical team. Customer location : UK, Spain
 
 collaboration in the Building and Construction industry. Customer Location : US
 
-● DISTRIBOOTED.com - The first App store for the Cloud - \( [http://DISTRIBOOTED.com](http://DISTRIBOOTED.com) \).
+● DISTRIBOOTED.com - The first App store for the Cloud - \( http://DISTRIBOOTED.com \).
 
 Combined point-and-click application deployment and cloud management across
 
