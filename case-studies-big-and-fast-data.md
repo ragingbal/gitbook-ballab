@@ -38,11 +38,9 @@ Customer location : UK, Spain
 
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
+Customer Location: Switzerland
+
 ## 
 
-● DISTRIBOOTED.com - The first App store for the Cloud - \( [http://DISTRIBOOTED.com](http://DISTRIBOOTED.com) \).
 
-Combined point-and-click application deployment and cloud management across
-
-multiple Cloud Providers. Launching in Alpha, Early October.
 
