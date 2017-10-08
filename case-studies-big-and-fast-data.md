@@ -60,6 +60,16 @@ For a major European Bank we developed a system to automatically classify transa
 
 Customer Location: Europe
 
+
+
+## Customer Segmentation and Analytics Dashboard
+
+For a major Global Bank we developed a system segment customers based on their card transaction history. The system analysed 100s of Millions of Transactions to derive the basic segmentation Caracteristics. The Dashboard was capable of presenting the segmentation of over 20 Million Customers in real time.
+
+Technologies Used: Hive, ML and NLP Algorithms,  Elastic Search, Java \(Spring\)
+
+Customer Location: Europe
+
 ## 
 
 
