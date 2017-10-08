@@ -1,5 +1,3 @@
-Example of Deep Tech Projects are
-
 ## RedZebra Analytics
 
 A platform for financial transaction processing, customer segmentation and predictive analytics for banks to channel merchant offers to their customers. The solution has been deployed in Europe and in the Far East. \( [http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services and the technology team.
@@ -36,15 +34,11 @@ Customer location : UAE, Serbia, Switzerland
 
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
+Biddly.com - Ongoing :
 
-
-Biddly.com - Ongoing : 
-
-DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the CTO services and technical team. 
+DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the CTO services and technical team.
 
 Customer location : UK, Spain
-
-
 
 Confidential Customer - Ongoing : High speed, High Volume data transfer and project
 
