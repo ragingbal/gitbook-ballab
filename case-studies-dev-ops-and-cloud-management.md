@@ -2,11 +2,11 @@
 
 
 
-● DISTRIBOOTED.com - The first App store for the Cloud - \( [http://DISTRIBOOTED.com](http://DISTRIBOOTED.com) \).
+## DISTRIBOOTED : The First App Store for the Cloud
 
-Combined point-and-click application deployment and cloud management across
+[DISTRIBOOTED.com](http://distribooted.com) Combined point-and-click Application deployment and Cloud Management across multiple Cloud Providers. Launching in Alpha, Early October.
 
-multiple Cloud Providers. Launching in Alpha, Early October.
+
 
 
 
