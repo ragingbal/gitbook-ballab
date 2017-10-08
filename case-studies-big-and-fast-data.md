@@ -46,6 +46,12 @@ We have offered consulting to multiple Business Intelligence and Analytics bouti
 
 Customer Locations : Europe & Asia
 
+## Machine Learning Based Transaction Categorisation
+
+For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
+
+Customer Location: Europe
+
 ## 
 
 
