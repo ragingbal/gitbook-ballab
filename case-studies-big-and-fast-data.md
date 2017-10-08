@@ -18,29 +18,25 @@ We provided the CTO services and the technology team. The customer has scaled to
 
 Customer Location : UK
 
-
-
 ## Loyalty Solution for Banks
 
 Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. One of the few customers who has a parallel team of 60 engineers with ours.
 
 Customer location : UK, Italy
 
-## Mobile Banking on-device application
-
-Mobile Banking on-device application for a leading Publicly Traded Banking Company in Europe.
-
-Customer location : UK, Italy
-
-## Machine Learning Based Image Rating and Categorization
-
-An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
-
 ## Advertising DMP Platform
 
 DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics. We provide the CTO services and technical team.
 
 Customer location : UK, Spain
+
+## 
+
+## Machine Learning Based Image Rating and Categorization
+
+An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
+
+## 
 
 Confidential Customer - Ongoing : High speed, High Volume data transfer and project
 
