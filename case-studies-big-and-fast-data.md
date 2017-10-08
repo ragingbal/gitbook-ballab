@@ -14,37 +14,29 @@ We provided the CTO services and the technology team. The customer has scaled to
 
 Customer Location : UK
 
-
-
 ## Mobile Banking on-device application
 
-Mobile Banking on-device application for a leading Publicly Traded Banking Company in Europe. 
+Mobile Banking on-device application for a leading Publicly Traded Banking Company in Europe.
 
 Customer location : UK, Italy
 
-
-
 ## Loyalty Solution for Banks
 
-Transaction Analytics
+Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. One of the few customers who has a parallel team of 60 engineers with ours. 
 
-● Confidential Customer : Big Data Solutions, Transaction Analytics, location based offers
+Customer location : UK, Italy
 
-and loyalty solutions. Leading banking solutions company in Europe. One of the few
+## GridMine: 
 
-customers who has a parallel team of 60 engineers with ours. Customer location : UK,
-
-Italy
-
-● GridMine: A product of based on our expertise in big-data and analytics to reduce the
-
-cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in
-
-launch phase with 5 customers in Europe primarily in the banking and insurance space.
+A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
 Customer location : UAE, Serbia, Switzerland
 
-● Eye:Li - An internal project for large scale image classification both in categorisation and
+
+
+## Eye:Li - Machine Learning based Image Rating and Categorization
+
+An internal project for large scale image classification both in categorisation and
 
 well as popularity measurement. The project demonstrated the technology to index
 
