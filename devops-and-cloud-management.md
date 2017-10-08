@@ -22,5 +22,16 @@ We have implemented solutions on the following Clouds
 * Exoscale
 * Safe Swiss Cloud
 
+The following are a few of the technologies we have used
+
+* Ansible, Chef and Puppet
+* Jenkins
+* Docker Swarm & Kubernetes incl. secure registry set up, Docker integrated SDLC pipelines
+* Nexus Repository
+* Terraform
+* AWS : SQL, Cloud Formation, EC2, S3, Glacier, AWS Lambda, Dynamo DB, EMR, SQS etc.
+
+
+
 
 
