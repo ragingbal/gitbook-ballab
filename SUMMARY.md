@@ -3,7 +3,6 @@
 * [Company Overview](README.md)
 * [Services](services.md)
   * [Big & Fast Data](big-and-fast-data.md)
-  * [DevOps and Cloud Management](https://www.gitbook.com/book/ragingbal/bal-lab/edit#)
 * [Case Studies](chapter1.md)
   * [Big & Fast Data](case-studies-big-and-fast-data.md)
   * [Dev Ops and Cloud Management](case-studies-dev-ops-and-cloud-management.md)
