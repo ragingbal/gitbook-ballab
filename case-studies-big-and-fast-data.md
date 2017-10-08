@@ -64,15 +64,13 @@ We have consulted to multiple Fortune 500 companies on the design and implementa
 
 We have offered consulting to multiple Business Intelligence and Analytics boutiques on implementing and standardising their in-house Data Platforms. Our experience with Real Time and Big Data Solutions allows us to consult to other Engineering on how best to implement technologies such as Kafka, Apache Ignite or InfluxDB.
 
-Technologies Used: Various Big & Fast Data Technologies and CI Tools.
+**Technologies Used:** Various Big & Fast Data Technologies and CI Tools.
 
-Customer Locations : Europe & Asia
+**Customer Locations:** Europe & Asia
 
 ## Machine Learning Based Transaction Categorisation
 
 For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
-
-
 
 **Technologies Used**: LevelDB, Python, NLP Libraries.
 
