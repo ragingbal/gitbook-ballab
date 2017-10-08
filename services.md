@@ -16,7 +16,6 @@ We provide DevOps consulting and operations management. Including Deployment Aut
 * Enterprise DevOps and Continuous Delivery
 * Infrastructure Automation
 * DevSecOps and Continuous Security
-
 * Docker and Container Platforms
 * Kubernetes and Docker Swarm / Enterprise
 
