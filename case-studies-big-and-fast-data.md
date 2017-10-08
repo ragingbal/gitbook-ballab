@@ -22,37 +22,31 @@ Customer location : UK, Italy
 
 ## Loyalty Solution for Banks
 
-Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. One of the few customers who has a parallel team of 60 engineers with ours. 
+Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. One of the few customers who has a parallel team of 60 engineers with ours.
 
 Customer location : UK, Italy
 
-## GridMine: 
+## GridMine:
 
 A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
 Customer location : UAE, Serbia, Switzerland
 
-
-
 ## Eye:Li - Machine Learning based Image Rating and Categorization
 
-An internal project for large scale image classification both in categorisation and
+An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
-well as popularity measurement. The project demonstrated the technology to index
 
-billions of images and determine the image quality using large scale image crawling
 
-followed by statistical and semantic context analysis. IP has now been sold and is in the
+Biddly.com - Ongoing : 
 
-process of being re-purposed for an image recognition and copyright auditing vendor.
+DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the CTO services and technical team. 
 
-● Biddly.com - Ongoing : DMP Platform for processing 2-3 billion clickstream events in a
+Customer location : UK, Spain
 
-day with real-time customer profiling and analytics \( [http://biddly.com](http://biddly.com) \). We provide the
 
-CTO services and technical team. Customer location : UK, Spain
 
-● Confidential Customer - Ongoing : High speed, High Volume data transfer and project
+Confidential Customer - Ongoing : High speed, High Volume data transfer and project
 
 collaboration in the Building and Construction industry. Customer Location : US
 
