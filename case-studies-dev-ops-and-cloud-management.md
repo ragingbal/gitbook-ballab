@@ -1,4 +1,4 @@
-# Case Studies : Dev Ops and Cloud Management
+# Dev Ops and Cloud Management
 
 ## 
 
