@@ -1,6 +1,12 @@
+## GridMine:
+
+A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
+
+Customer location : UAE, Serbia, Switzerland
+
 ## RedZebra Analytics
 
-A platform for financial transaction processing, customer segmentation and predictive analytics for banks to channel merchant offers to their customers. The solution has been deployed in Europe and in the Far East. \( [http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services and the technology team.
+A platform for financial transaction processing, customer segmentation and predictive analytics for banks to channel merchant offers to their customers. The solution has been deployed in Europe and in the Far East. \( [http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services, Product Engineering and the Professional Services Team.
 
 Customer location : UK / Germany
 
@@ -12,11 +18,7 @@ We provided the CTO services and the technology team. The customer has scaled to
 
 Customer Location : UK
 
-## Mobile Banking on-device application
 
-Mobile Banking on-device application for a leading Publicly Traded Banking Company in Europe.
-
-Customer location : UK, Italy
 
 ## Loyalty Solution for Banks
 
@@ -24,11 +26,11 @@ Transaction Analytics, location based offers and loyalty solutions. Leading bank
 
 Customer location : UK, Italy
 
-## GridMine:
+## Mobile Banking on-device application
 
-A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
+Mobile Banking on-device application for a leading Publicly Traded Banking Company in Europe.
 
-Customer location : UAE, Serbia, Switzerland
+Customer location : UK, Italy
 
 ## Machine Learning Based Image Rating and Categorization
 
@@ -39,8 +41,6 @@ An internal project for large scale image classification both in categorisation 
 DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics. We provide the CTO services and technical team.
 
 Customer location : UK, Spain
-
-
 
 Confidential Customer - Ongoing : High speed, High Volume data transfer and project
 
