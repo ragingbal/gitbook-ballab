@@ -44,7 +44,7 @@ Customer location : UK, Italy
 
 DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics. We provide the CTO services and technical team.
 
-Technologies Used: Grizzly Web Server, Kafka, Apache Ignite, Cassandra, Java.
+Technologies Used: Grizzly Web Server, Kafka, Apache Ignite, Cassandra, Hive, Java.
 
 Customer location : UK, Spain
 
