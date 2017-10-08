@@ -10,7 +10,7 @@ We are the team behind the Cross Cloud Big Data Deployment Platform GridMine. Gr
 
 # DevOps and Cloud Management
 
-We provide DevOps consulting and operations management. Including Deployment Automation, Infrastructure Planning, Operations Automation and Design.
+We provide DevOps Consulting and Operations Management as a Service.
 
 * Cloud Migration and Adoption
 * Enterprise DevOps and Continuous Delivery
