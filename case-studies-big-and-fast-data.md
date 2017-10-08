@@ -72,17 +72,19 @@ Customer Locations : Europe & Asia
 
 For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
 
-Technologies Used: LevelDB, Python, NLP Libraries.
 
-Customer Location: Europe
+
+**Technologies Used**: LevelDB, Python, NLP Libraries.
+
+**Customer Location:** Europe
 
 ## Customer Segmentation and Analytics Dashboard
 
 For a major Global Bank we developed a system segment customers based on their card transaction history. The system analysed 100s of Millions of Transactions to derive the basic segmentation Caracteristics. The Dashboard was capable of presenting the segmentation of over 20 Million Customers in real time.
 
-Technologies Used: Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
+**Technologies Used:** Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
 
-Customer Location: Europe
+**Customer Location:** Europe
 
 ## 
 
