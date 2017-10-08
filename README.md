@@ -12,5 +12,5 @@ Bal Lab is fully owned by its principal Bal Balaji who has an extensive track re
 
 Companies he has founded, led or held operational roles include SurfKitchen \(Founder / CTO, sold to Teleca AB, 2010\), Fotodesk Group \( Interim CEO, Sold to CEWE Color, 2011\), FlauntR \(sold to Fotodesk Group 2007\), RedZebra Analytics \(CTO\), Colibria\(Advisor, sold to Metaswitch Networks, 2011\) and FlyTxt.
 
-His companies have deployed products to companies such as Nokia, Qualcomm, Vodafone, Orange, O2, Cincinnati Bell, Siemens and Samsung. Bal is also an acknowledged pioneer in the mobile industry - having pioneered the concept of the on-device app store, and in digital imaging - having built the first integrated solution for online editing, sharing and printing of digital images.
+His companies have deployed products to companies such as Nokia, Qualcomm, Vodafone, Orange, O2, Cincinnati Bell, Siemens and Samsung. Bal is also an acknowledged pioneer in the mobile industry - having pioneered the concept of the On-Device App Store, and in Digital Imaging - having built the first integrated solution for Online Editing, Sharing and Printing of Digital Images.
 
