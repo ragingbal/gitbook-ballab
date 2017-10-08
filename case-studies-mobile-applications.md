@@ -1,6 +1,6 @@
 ## Mobile Banking
 
-Mobile Banking On-Device application for a Digital Only Bank. Application provided the consumer a view of the Spending habits and featured extensive charts and graphs.
+Mobile Banking  Application for a Digital Only Bank. Application provided the consumer a view of the Spending habits and featured extensive charts and graphs.
 
 Customer location : UK, Italy
 
