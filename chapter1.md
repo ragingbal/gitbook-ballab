@@ -22,7 +22,7 @@ Customer location : UK
 
 ## Design Management
 
-The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support.
+The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support. We provide the complete engineering services.
 
 Customer Location : US
 
