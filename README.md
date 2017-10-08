@@ -6,7 +6,7 @@ Over the past 5 years our projects have focused on Consumer, Big and Fast Data A
 
 We have been the primary architects and engineers of almost all products and projects we have worked on. We also develop our own products alongside to showcase our skills and to solve problems that we encounter often.
 
-Bal Lab is fully owned by its principal Bal Balaji who has an extensive track record in the technology industry having founded and led “deep technology” companies in the US, UK, Switzerland, India and Serbia.
+Bal Lab is fully owned by its principal [Bal Balaji](https://www.linkedin.com/in/balajibal/) who has an extensive track record in the technology industry having founded and led “deep technology” companies in the US, UK, Switzerland, India and Serbia.
 
 Companies he has founded, led or held operational roles include SurfKitchen \(Founder / CTO, sold to Teleca AB, 2010\), Fotodesk Group \( Interim CEO, Sold to CEWE Color, 2011\), FlauntR \(sold to Fotodesk Group 2007\), RedZebra Analytics \(CTO\), Colibria\(Advisor, sold to Metaswitch Networks, 2011\) and FlyTxt.
 
