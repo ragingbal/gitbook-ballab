@@ -36,6 +36,8 @@ Customer location : UK, Italy
 
 DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics. We provide the CTO services and technical team.
 
+Technologies Used: Grizzly Web Server, Kafka, Apache Ignite, Cassandra, Java.
+
 Customer location : UK, Spain
 
 ## Machine Learning Based Image Rating and Categorization
@@ -44,7 +46,7 @@ Customer location : UK, Spain
 
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
-Technologies Used: Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\), Amazon SQL, Custom Search Robots.
+Technologies Used: Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\), Amazon SQL, Custom Search Tools.
 
 Customer Location: Switzerland
 
