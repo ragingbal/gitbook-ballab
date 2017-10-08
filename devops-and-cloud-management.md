@@ -26,11 +26,8 @@ We have implemented solutions on the following Clouds
 The following are a few of the technologies we have used
 
 * Ansible, Chef, Puppet and Terraform for Automation
-
 * Docker Swarm & Kubernetes incl. secure registry set up, Docker integrated SDLC pipelines
-
 * SDLC and CI Pipeline development with Git, Jenkins, Nexus Repository etc.
-
 * AWS : SQL, Cloud Formation, EC2, S3, Glacier, AWS Lambda, Dynamo DB, EMR, SQS etc.
 
 
