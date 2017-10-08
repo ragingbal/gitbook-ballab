@@ -24,7 +24,7 @@ Customer Location : UK / Germany
 
 A high-performance traffic management and auditing service combined with micro-payment payment management. This service generates 100s of thousands of transactions annually and channels millions of visits every day.
 
-We provided the CTO services and the technology team. The customer has scaled to multi-million Euro revenue in the 3 years we have been working with them.
+We provide the CTO services and the technology team. The customer has scaled to multi-million Euro revenue in the 3 years we have been working with them.
 
 Technologies Used: Cassandra, Java Spring, Kafka, ElasticSearch, PHP, Python.
 
