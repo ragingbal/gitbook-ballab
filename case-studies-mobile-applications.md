@@ -1,3 +1,5 @@
+## Case Studies: Mobile Applications
+
 ## Mobile Banking
 
 Mobile Banking  Application for a Digital Only Bank. Application provided the consumer a view of the Spending habits and featured extensive charts and graphs.

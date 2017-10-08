@@ -1,4 +1,4 @@
-# Case Studies : Big & Fast Data
+# Case Studies: Big & Fast Data
 
 ## GridMine:
 

@@ -1,4 +1,4 @@
-# Case Studies : Applications
+# Case Studies: Applications
 
 The following is a selection of some of the consumer facing applications we have created over the past years. The products have been built on a heterogeneous platform mix of PHP, Python and Java \( Spring \)
 
