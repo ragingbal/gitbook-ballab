@@ -9,7 +9,7 @@ We provide DevOps Consulting and Operations Management as a Service.
 * Docker and Container Platforms
 * Kubernetes and Docker Swarm / Enterprise
 
-Platforms and Technologies
+## Platforms and Technologies
 
 We have implemented solutions on the following Clouds
 
