@@ -44,6 +44,8 @@ Customer location : UK, Spain
 
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
+Technologies Used: Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
+
 Customer Location: Switzerland
 
 ## Infrastructure Design FinTech, AdTech and IoT
