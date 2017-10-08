@@ -52,9 +52,7 @@ His companies have deployed products to companies such as Nokia, Qualcomm, Vodaf
 
 Orange, O2, Cincinnati Bell, Siemens and Samsung. Bal is also an acknowledged pioneer in the
 
-mobile industry - having pioneered the concept of the on-device app store, and in digital imaging - 
+mobile industry - having pioneered the concept of the on-device app store, and in digital imaging -
 
 having built the first integrated solution for online editing, sharing and printing of digital images.
-
-
 
