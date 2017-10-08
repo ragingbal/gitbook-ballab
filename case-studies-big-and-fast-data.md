@@ -34,9 +34,9 @@ Customer Location : UK
 
 Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. One of the few customers who has a parallel team of 60 engineers with ours.
 
-Technologies Used: Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
+**Technologies Used:** Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
 
-Customer location : UK, Italy
+**Customer location:** UK, Italy
 
 ## Advertising DMP Platform
 
