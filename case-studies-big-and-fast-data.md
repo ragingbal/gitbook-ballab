@@ -2,11 +2,15 @@
 
 ## GridMine:
 
+![](http://www.gridmine.com/images/product/clusterDesign.png)
+
 A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
 Customer location : UAE, Serbia, Switzerland
 
 ## RedZebra Analytics
+
+![](http://finovate.com/wp-content/uploads/2015/01/d8b0af3e47fbaaea5daebb3b86d19f4e269648884.jpg)
 
 A platform for financial transaction processing, customer segmentation and predictive analytics for banks to channel merchant offers to their customers. The solution has been deployed in Europe and in the Far East. \( [http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services, Product Engineering and the Professional Services Team.
 
@@ -28,11 +32,15 @@ Customer location : UK, Italy
 
 ## Advertising DMP Platform
 
+![](http://www.richardpchapman.com/wp-content/uploads/2016/08/biddly-web-design-3-1600x961.jpg)
+
 DMP Platform for processing 2-3 billion clickstream events in a day with real-time customer profiling and analytics. We provide the CTO services and technical team.
 
 Customer location : UK, Spain
 
 ## Machine Learning Based Image Rating and Categorization
+
+![](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/600629_343930645712285_582335601_n.png?oh=1c4597015bdae9592f6c77302ed26a4e&oe=5A3B2EE3)
 
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
