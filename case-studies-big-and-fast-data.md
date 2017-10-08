@@ -18,7 +18,7 @@ A platform for financial transaction processing, customer segmentation and predi
 
 Technologies Used: Cassandra, Java \(Spring\), MySQL, Hive, ElasticSearch
 
-Customer location : UK / Germany
+Customer Location : UK / Germany
 
 ## High-Performance Traffic Management
 
