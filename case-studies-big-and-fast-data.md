@@ -42,7 +42,7 @@ Customer Location: Switzerland
 
 We have consulted to multiple Fortune 500 companies on the design and implementation of their Big Data and Development infrastructure. Our consulting includes Solution Design, Tool Selection, White Paper and Roadmap Development, Implementation of Security and Governance and Data Lake Planning.
 
-Customer Locations : Europe and Asia
+Customer Locations : Europe & Asia
 
 ## 
 
