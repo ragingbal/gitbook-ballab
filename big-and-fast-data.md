@@ -16,7 +16,7 @@ Our Services include
 
 ## Platforms and Technologies
 
-We have worked with the following technologies.
+We have worked with the following technologies and implemented them within our solutions.
 
 * Apache Kafka
 * Apache Flume
