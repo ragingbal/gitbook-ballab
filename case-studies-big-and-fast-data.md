@@ -1,3 +1,5 @@
+# Case Studies : Big & Fast Data
+
 ## GridMine:
 
 A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
@@ -37,8 +39,6 @@ Customer location : UK, Spain
 An internal project for large scale image classification both in categorisation and well as popularity measurement. The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
 ## 
-
-
 
 ● DISTRIBOOTED.com - The first App store for the Cloud - \( [http://DISTRIBOOTED.com](http://DISTRIBOOTED.com) \).
 
