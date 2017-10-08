@@ -52,6 +52,8 @@ We have consulted to multiple Fortune 500 companies on the design and implementa
 
 We have offered consulting to multiple Business Intelligence and Analytics boutiques on implementing and standardising their in-house Data Platforms. Our experience with Real Time and Big Data Solutions allows us to consult to other Engineering on how best to implement technologies such as Kafka, Apache Ignite or InfluxDB.
 
+Technologies Used: Various Big & Fast Data Technologies and CI Tools.
+
 Customer Locations : Europe & Asia
 
 ## Machine Learning Based Transaction Categorisation
