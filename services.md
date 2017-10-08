@@ -22,5 +22,3 @@ Infrastructure Automation
 
 Kubernetes and Docker Swarm / Enterprise
 
-
-
