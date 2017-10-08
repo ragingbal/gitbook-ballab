@@ -25,10 +25,10 @@ We have worked with the following technologies.
 * Apache Cassandra, Hbase and Kudu
 * Elasticsearch & Solr
 * Avro, Parquet, ORC
-
 * Apache Knox
 * Hive, Presto & Impala
-* Sqoop
+
+Sqoop
 
 
 
