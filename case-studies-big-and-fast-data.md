@@ -14,6 +14,8 @@ Customer location : UAE, Serbia, Switzerland
 
 A platform for financial transaction processing, customer segmentation and predictive analytics for banks to channel merchant offers to their customers. The solution has been deployed in Europe and in the Far East. \( [http://redzebra-analytics.com](http://redzebra-analytics.com) \). We provided the CTO services, Product Engineering and the Professional Services Team.
 
+Technologies Used: Cassandra, Java Spring, Hive, ElasticSearch
+
 Customer location : UK / Germany
 
 ## High-Performance Traffic Management
