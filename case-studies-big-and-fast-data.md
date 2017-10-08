@@ -58,6 +58,8 @@ Customer Locations : Europe & Asia
 
 For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
 
+Technologies Used: LevelDB, Python, NLP Libraries.
+
 Customer Location: Europe
 
 ## Customer Segmentation and Analytics Dashboard
