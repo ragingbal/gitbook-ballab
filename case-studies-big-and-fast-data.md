@@ -38,9 +38,9 @@ An internal project for large scale image classification both in categorisation 
 
 Customer Location: Switzerland
 
-## Infrastructure Design FinTech
+## Infrastructure Design FinTech, AdTech and IoT
 
-We have consulted to multiple Fortune 500 companies on the design and implementation of their Big Data and Development Infrastructure. Our consulting includes Solution Design, Tool Selection, White Paper and Roadmap Development, Implementation of Security and Governance and Data Lake Planning.
+We have consulted to multiple Fortune 500 companies on the design and implementation of their Big Data and Development Infrastructure. Our consulting and advisory includes Solution Design, Tool Selection, White Paper and Roadmap Development, Implementation of Security and Governance and Data Lake Planning.
 
 Customer Locations : Europe & Asia
 
