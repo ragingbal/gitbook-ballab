@@ -6,6 +6,8 @@
 
 A product of based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \). Product is in launch phase with 5 customers in Europe primarily in the banking and insurance space.
 
+Technologies: Python, Ansible, Apache Ambari.
+
 Customer location : UAE, Serbia, Switzerland
 
 ## RedZebra Analytics
