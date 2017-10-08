@@ -1,6 +1,6 @@
 # Services: DevOps and Cloud Management
 
-Our expertise in DevOps and Cloud Management came out of our Software Engineering Practice. As we launched large Big Data Services into the Cloud we quickly learnt of the lack of tools and the knowhow in the Market. In 2015 we launched our solution for DevOps for Big Data Platforms in the market and have continually invested in developing Cloud Management Tools.
+Our expertise in DevOps and Cloud Management came out of our Software Engineering Practice. As we launched large Big Data Services into the Cloud we quickly learnt of the lack of tools and knowhow in the Market. In 2015 we launched our solution for DevOps for Big Data Platforms in the market and have continually invested in developing Cloud Management Tools.
 
 By H2-2017 we have seen DevOps and Cloud Management Projects delivering nearly 30% or our revenue and alunched our DevOps as Service Offering.
 
