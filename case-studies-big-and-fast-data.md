@@ -38,9 +38,7 @@ An internal project for large scale image classification both in categorisation 
 
 ## 
 
-Confidential Customer - Ongoing : High speed, High Volume data transfer and project
 
-collaboration in the Building and Construction industry. Customer Location : US
 
 ● DISTRIBOOTED.com - The first App store for the Cloud - \( [http://DISTRIBOOTED.com](http://DISTRIBOOTED.com) \).
 

@@ -1,4 +1,4 @@
-# Case Studies
+# Case Studies : Applications
 
 Our work is split about 40:60 between consumer facing products and deep technology projects in big data and analytics.
 
@@ -17,4 +17,8 @@ This project is in gestation after launch. An AirBnB like service but primarily 
 Customer location : UK
 
 
+
+Confidential Customer - Ongoing : High speed, High Volume data transfer and project
+
+collaboration in the Building and Construction industry. Customer Location : US
 
