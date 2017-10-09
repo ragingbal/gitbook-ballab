@@ -1,7 +1,7 @@
 # Summary
 
 * [Company Overview](README.md)
-* Services
+* [Services](services.md)
   * [Big & Fast Data](big-and-fast-data.md)
   * [DevOps & Cloud Management](devops-and-cloud-management.md)
   * [Application Engineering](application-engineering.md)
@@ -11,6 +11,4 @@
   * [Applications](chapter1.md)
   * [Mobile Applications](case-studies-mobile-applications.md)
 * [Contact Us](contact-us.md)
-
-
 
