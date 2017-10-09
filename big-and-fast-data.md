@@ -18,16 +18,15 @@ Our Services include
 
 We have worked with the following technologies and implemented them within our solutions.
 
-* Apache Kafka
-* Apache Flume
+* Apache Kafka, Flume, Oozie.
 * Apache Ignite
-* Kite SDK
+* Cloudera Kite SDK
 * Apache Cassandra, Hbase and Kudu
 * Elasticsearch & Solr
 * Avro, Parquet, ORC
 * Apache Knox, Sentry and Ranger
 * Hive, Presto & Impala
-* Sqoop, Ooozie
+* Sqoop 
 * Cloudera Hue
 * Apache Spark
 
