@@ -1,6 +1,6 @@
 # Case Studies: Big & Fast Data
 
-## GridMine:
+## GridMine
 
 ![](http://www.gridmine.com/images/product/clusterDesign.png)
 
@@ -10,7 +10,7 @@ A product of based on our expertise in big-data and analytics to reduce the cost
 
 **Customer Location:** UAE, Serbia, Switzerland
 
-## RedZebra Analytics
+## Customer Segmentation & Analytics
 
 ![](http://finovate.com/wp-content/uploads/2015/01/d8b0af3e47fbaaea5daebb3b86d19f4e269648884.jpg)
 
