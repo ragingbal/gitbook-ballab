@@ -4,7 +4,7 @@ We are the team behind the Cross Cloud Big Data Deployment Platform [GridMine](h
 
 'Traditional' Big Data Solutions with Analytics and Machine Learning form a good part of our portfolio. But we have been fortunate to work on solutions in AdTech and Monitoring space where Real Time Stream processing is critical. This has exposed us to the challenges of working with in-Memory Databases, CEP Processing, Time Series Databases and High Speed Web Server frameworks.
 
-Having started out building Big Data Solutions we now offer consulting independent of our software engineering solutions. These include advisory services on Tool Choice as well as Infrastructure Design and Roadmap Planning. 
+Having started out building Big Data Solutions we now offer consulting independent of our software engineering solutions. These include advisory services on Tool Choice as well as Infrastructure Design and Roadmap Planning.
 
 Having worked for the FinTEch industry we understand not only the technical aspects but business issues such as Granular Security, Governance, GDPR and Data Lineage.
 
@@ -15,6 +15,7 @@ Our Services include
 * Software Engineering.
 * Roadmap Design and Consulting, 
 * Solution Planning
+* Secure Hadoop Design and Deployment
 * Infrastructure Architecture and Automation
 * 24/7 Operations Management and Support
 
