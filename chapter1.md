@@ -14,6 +14,16 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 **Customer location** : US / Australia
 
+
+
+## IoT & Refactoring
+
+We have been providing the engineering services as well as leading the efforts to refactor a large and well established IoT solution. 
+
+**Customer Location:** Europe
+
+
+
 ## Crowd Funding
 
 A "crowd-funding for good" service which works extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
