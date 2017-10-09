@@ -30,8 +30,6 @@ We now offer Dev Ops and Cloud Migration consulting as a service independent of 
 
 **Customer Location:** Europe, AsiaPac
 
-
-
 ## 
 
 
