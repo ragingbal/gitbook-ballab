@@ -14,7 +14,7 @@ The product provides the infrastructure for managing large international constru
 
 ## IoT & Refactoring
 
-We have been providing the engineering services as well as leading the efforts to refactor a large and well established IoT solution. Our efforts are focused on splitting a monolithic J2EE application into a modern micro-services and Spring Boot based architecture.
+We have been leading the efforts to refactor a large and well established IoT solution. Our efforts are focused on splitting a monolithic J2EE application into a modern micro-services and Spring Boot based architecture. We work along side the customers in-house team who focus on core road map extension.
 
 **Technologies: **Java / Spring, Spring Boot, J2EE to Spring Data Conversion, DevOps and Jenkins Pipelines, Ansible based automation.
 
