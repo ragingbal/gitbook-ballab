@@ -48,7 +48,7 @@ DMP Platform for processing 2-3 billion clickstream events in a day with real-ti
 
 **Customer Location:** UK, Spain
 
-## Machine Learning Based Image Rating and Categorization
+## ML Based Image Rating and Categorization
 
 ![](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/600629_343930645712285_582335601_n.png?oh=1c4597015bdae9592f6c77302ed26a4e&oe=5A3B2EE3)
 
@@ -58,7 +58,7 @@ An internal project for large scale image classification both in categorisation 
 
 **Customer Location:** Switzerland
 
-## Infrastructure Design FinTech, AdTech and IoT
+## Infrastructure Design FinTech, AdTech & IoT
 
 We have consulted to multiple Fortune 500 companies on the design and implementation of their Big Data and Development Infrastructure. Our consulting and advisory includes Solution Design, Tool Selection, White Paper and Roadmap Development, Implementation of Security and Governance and Data Lake Planning.
 
@@ -68,7 +68,7 @@ We have offered consulting to multiple Business Intelligence and Analytics bouti
 
 **Customer Locations:** Europe & Asia
 
-## Machine Learning Based Transaction Categorisation
+## ML Based Transaction Categorisation
 
 For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
 
