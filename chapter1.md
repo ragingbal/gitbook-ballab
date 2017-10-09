@@ -8,21 +8,19 @@ The product provides the infrastructure for managing large international constru
 
 **Customer Location** : US
 
+## IoT & Refactoring
+
+We have been providing the engineering services as well as leading the efforts to refactor a large and well established IoT solution. Our efforts are focused on splitting a monolithic J2EE application into a modern micro-services and Spring Boot based architecture.
+
+**Customer Location:** Europe
+
 ## Voice Publishing
 
 A voice publishing social network which is available on IoS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc.
 
 **Customer location** : US / Australia
 
-
-
-## IoT & Refactoring
-
-We have been providing the engineering services as well as leading the efforts to refactor a large and well established IoT solution. 
-
-**Customer Location:** Europe
-
-
+## 
 
 ## Crowd Funding
 
