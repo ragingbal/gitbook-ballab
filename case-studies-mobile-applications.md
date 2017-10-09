@@ -1,5 +1,7 @@
 # Case Studies: Mobile Applications
 
+The Mobile Applications we build are primarily extensions of our core product engineering efforts. We rarely handle Mobile only projects. Our team works on IoS and Android platforms and have worked on applications that include On-Device audio and video capture, social network integration, realtime notifications, charting and video editing.
+
 ## Mobile Banking
 
 Mobile Banking  Application for a Digital Only Bank. Application provided the consumer a view of the Spending habits and featured extensive charts and graphs.
