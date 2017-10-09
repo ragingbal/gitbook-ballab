@@ -20,13 +20,11 @@ We have been providing the engineering services as well as leading the efforts t
 
 ## Enterprise Search
 
-We provide a team that augments our customer's engineering team in building a Cloud Based Enterprise Search and File Management Solution. The solution features a number of discrete micro-services plug-ins which index files stored at various SaaS file storage solutions.
+We provide a team that augments our customer's engineering team in building a Cloud Based Enterprise Search and File Management Solution. The solution features a number of discrete micro-services plug-ins which index files stored at various SaaS file storage solutions. Organize your cloud data across Office 365, Google Drive, Slack, Dropbox, One Drive and more directly through your desktop. Emails, videos, images, and documents beautifully categorized so you can get what you need faster.
 
 **Technologies:** GoLang, Microservices
 
 **Customer Location:** UK
-
-
 
 ## Voice Publishing
 
