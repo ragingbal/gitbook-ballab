@@ -45,6 +45,7 @@ We have worked with the following technologies and implemented them within our s
 * Sqoop 
 * Cloudera Hue
 * Apache Spark and Storm
+* Apache Ambari
 
 
 
