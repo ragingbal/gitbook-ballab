@@ -22,7 +22,7 @@ We have been providing the engineering services as well as leading the efforts t
 
 A voice publishing social network which is available on IoS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc.
 
-**Technologies:**
+**Technologies: **PHP, IoS, Android, On Device Audio Compression, REST APIs
 
 **Customer location** : US / Australia
 
