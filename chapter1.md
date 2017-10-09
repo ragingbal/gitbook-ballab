@@ -56,7 +56,7 @@ A "crowd-funding for good" service which worked extensively with corporate spons
 
 ![](/assets/TrustedSwap.png)
 
-This project is in gestation after launch. An AirBnB like service but primarily for swapping holiday use between homeowners. Extensive integration with Linked-in which serves as a primary trust mechanism. Support for geolocation house profiles and communication system between transaction parties.
+An AirBnB like service but primarily for swapping holiday homes between homeowners. Extensive integration with Linked-in which serves as a primary trust mechanism. Support for geolocation house profiles and communication system between transaction parties.
 
 **Technologies: **PHP, AngularJS, MySQL
 
