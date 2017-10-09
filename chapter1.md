@@ -34,7 +34,11 @@ We provide a team that augments our customer's engineering team in building a Cl
 
 ## Video Search and Community
 
+We are building a curated video social network. Along with the building of the Application we have also built an automated curation and video finding mechanism that finds and categorizes videos. 
 
+**Technologies:** Python, Microservices, ML augmented Crawler and Curation.
+
+**Customer Location:** UK
 
 ## Voice Publishing
 
