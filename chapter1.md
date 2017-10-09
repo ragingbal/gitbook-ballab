@@ -44,7 +44,9 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 ## Crowd Funding
 
-A "crowd-funding for good" service which works extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
+![](http://www.goodnet.org/photos/620x0/24301.jpg)
+
+A "crowd-funding for good" service which worked extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
 
 **Technologies: **PHP, AngularJS, MySQL
 
