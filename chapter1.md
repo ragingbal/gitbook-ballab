@@ -60,7 +60,7 @@ An AirBnB like service but primarily for swapping holiday homes between homeowne
 
 **Technologies: **PHP, AngularJS, MySQL
 
-**Customer location **: UK
+**Customer Location **: UK
 
 ## 
 
