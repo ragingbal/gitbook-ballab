@@ -18,6 +18,16 @@ We have been providing the engineering services as well as leading the efforts t
 
 **Customer Location:** Europe
 
+## Enterprise Search
+
+We provide a team that augments our customer's engineering team in building a Cloud Based Enterprise Search and File Management Solution. The solution features a number of discrete micro-services plug-ins which index files stored at various SaaS file storage solutions.
+
+**Technologies:** GoLang, Microservices
+
+**Customer Location:** UK
+
+
+
 ## Voice Publishing
 
 A voice publishing social network which is available on IoS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc.
