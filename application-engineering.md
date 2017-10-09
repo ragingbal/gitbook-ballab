@@ -18,12 +18,28 @@ Our Services include
 
 We have worked with the following technologies and implemented them within our solutions.
 
+**Programming Languages & Frameworks**
+
+* Java with Spring Framework
+* GoLang
+* Python
+* PHP
+* AngularJS, ReactJS
+
+**Tools and Infrastructure**
+
+* MySQL, MariaDB, Apache Cassandra, Hbase and Kudu, LevelDB, RocksDB, MongoDB
+* InfluxDB, OpenTSDB
+* JMS, ActiveMQ, Firebase, Amazon SQS Slack
+* Elasticsearch & Solr
+
+**Hadoop Ecosystem**
+
 * Apache Kafka, Flume, Oozie.
 * Apache Ignite
 * Cloudera Kite SDK
-* Apache Cassandra, Hbase and Kudu
-* Elasticsearch & Solr
-* Avro, Parquet, ORC
+
+* * Avro, Parquet, ORC
 * Apache Knox, Sentry and Ranger
 * Hive, Presto & Impala
 * Sqoop 
