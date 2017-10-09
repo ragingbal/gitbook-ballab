@@ -2,6 +2,12 @@
 
 The following is a selection of some of the consumer facing applications we have created over the past years. The products have been built on a heterogeneous platform mix of PHP, Python and Java \( Spring \)
 
+## Design Management
+
+The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support. We provide the complete engineering services.
+
+**Customer Location** : US
+
 ## Voice Publishing
 
 A voice publishing social network which is available on IoS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc.
@@ -20,9 +26,7 @@ This project is in gestation after launch. An AirBnB like service but primarily 
 
 **Customer location **: UK
 
-## Design Management
+## 
 
-The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support. We provide the complete engineering services.
 
-**Customer Location** : US
 
