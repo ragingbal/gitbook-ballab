@@ -1,4 +1,4 @@
-## Case Studies: Mobile Applications
+# Case Studies: Mobile Applications
 
 ## Mobile Banking
 
