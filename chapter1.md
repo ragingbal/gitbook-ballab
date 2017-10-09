@@ -40,7 +40,7 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 **Technologies: **PHP, IoS, Android, On Device Audio Compression, REST APIs, Google Maps
 
-**Customer location** : US / Australia
+**Customer Location** : US / Australia
 
 ## Crowd Funding
 
