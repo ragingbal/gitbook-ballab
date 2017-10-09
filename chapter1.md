@@ -6,11 +6,9 @@ The following is a selection of some of the consumer facing applications we have
 
 The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support. We provide the complete engineering services.
 
-**Technologies:**
+**Technologies: **Java / Spring, S3, Consul, Spring Boot, multi-region Data Centre Support.
 
-**Customer Location** : US
-
-
+**Customer Location** : US / Europe
 
 ## IoT & Refactoring
 
@@ -20,8 +18,6 @@ We have been providing the engineering services as well as leading the efforts t
 
 **Customer Location:** Europe
 
-
-
 ## Voice Publishing
 
 A voice publishing social network which is available on IoS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc.
@@ -30,8 +26,6 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 **Customer location** : US / Australia
 
-
-
 ## Crowd Funding
 
 A "crowd-funding for good" service which works extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
@@ -39,8 +33,6 @@ A "crowd-funding for good" service which works extensively with corporate sponso
 **Technologies:**
 
 **Customer location** : UK
-
-
 
 ## Sharing Economy
 
