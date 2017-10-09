@@ -1,6 +1,6 @@
 # Company Overview
 
-Bal Lab was established in 2011 and has it’s primary engineering operations located in Belgrade, Serbia. Over the past 5 years we have engineered a number of products for startups and large financial institutions alike.
+Bal Lab was established in 2011 and has it’s primary engineering operations located in Belgrade, Serbia. Over the past years we have engineered a number of products for Start-Ups and large Financial Institutions alike.
 
 Our projects have focused on Consumer, Big & Fast Data Applications and DevOps & Cloud Management - mainly in the online advertising and financial verticals.
 
