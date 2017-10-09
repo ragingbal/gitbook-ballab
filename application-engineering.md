@@ -8,7 +8,7 @@ Our Applications have been built using Java \(Spring\), Python and GoLang.
 
 Our Services include
 
-* Full service including interim-CTO Services.
+* Full Service Engineering including interim-CTO Services.
 * Roadmap Design and Architecture Consulting, 
 * Product Implementation with Fixed Size or Flexible Team.
 * Infrastructure Architecture and Automation
