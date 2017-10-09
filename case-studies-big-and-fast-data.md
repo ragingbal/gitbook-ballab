@@ -12,7 +12,7 @@ GridMine provides 15-minute deployment of Big Data Hubs. Any GridMine cluster ca
 
 GridMine is based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \).
 
-**Technologies:** Python, Ansible, Apache Ambari.
+**Technologies:** Python, Ansible, Apache Ambari, Hadoop Ecosystem, ElasticSearch, Cassandra
 
 **Customer Location:** UAE, Serbia, Switzerland
 
