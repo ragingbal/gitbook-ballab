@@ -78,7 +78,7 @@ We have offered consulting to multiple Business Intelligence and Analytics bouti
 
 For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
 
-**Technologies Used**: LevelDB, Python, NLP Libraries.
+**Technologies Used**: [LevelDB](https://github.com/google/leveldb), Python, [NLP Libraries](https://elitedatascience.com/python-nlp-libraries), [SparkML](https://spark.apache.org/docs/latest/ml-guide.html)
 
 **Customer Location:** Europe
 
@@ -86,7 +86,7 @@ For a major European Bank we developed a system to automatically classify transa
 
 For a major Global Bank we developed a system segment customers based on their card transaction history. The system analysed 100s of Millions of Transactions to derive the basic segmentation Characteristics. The Dashboard was capable of presenting the segmentation of over 20 Million Customers in real time.
 
-**Technologies Used:** Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
+**Technologies Used:** [Hive](https://hive.apache.org/), ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
 
 **Customer Location:** AsiaPAC
 

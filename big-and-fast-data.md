@@ -25,7 +25,7 @@ We have worked with the following technologies and implemented them within our s
 * Apache Cassandra, Hbase and Kudu
 * Elasticsearch & Solr
 * Avro, Parquet, ORC
-* Apache Knox
+* Apache Knox, Sentry and Ranger
 * Hive, Presto & Impala
 * Sqoop, Ooozie
 * Cloudera Hue
