@@ -35,6 +35,7 @@ The following are a few of the technologies we have used
 * Docker Swarm & Kubernetes incl. secure registry set up, Docker integrated SDLC pipelines
 * SDLC and CI Pipeline development with Git, Jenkins, Nexus Repository etc.
 * AWS : SQL, Cloud Formation, EC2, S3, Glacier, AWS Lambda, Dynamo DB, EMR, SQS etc.
+* Zabbix, Amazon Cloudwatch, Icinga2, DataDog
 
 
 
