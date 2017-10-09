@@ -10,6 +10,8 @@ The product provides the infrastructure for managing large international constru
 
 **Customer Location** : US
 
+
+
 ## IoT & Refactoring
 
 We have been providing the engineering services as well as leading the efforts to refactor a large and well established IoT solution. Our efforts are focused on splitting a monolithic J2EE application into a modern micro-services and Spring Boot based architecture.
@@ -17,6 +19,8 @@ We have been providing the engineering services as well as leading the efforts t
 **Technologies:**
 
 **Customer Location:** Europe
+
+
 
 ## Voice Publishing
 
@@ -26,6 +30,8 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 **Customer location** : US / Australia
 
+
+
 ## Crowd Funding
 
 A "crowd-funding for good" service which works extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
@@ -33,6 +39,8 @@ A "crowd-funding for good" service which works extensively with corporate sponso
 **Technologies:**
 
 **Customer location** : UK
+
+
 
 ## Sharing Economy
 
