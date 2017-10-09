@@ -4,6 +4,8 @@ The following is a selection of some of the consumer facing applications we have
 
 ## Design Management
 
+![](https://procore-marketplace.s3.amazonaws.com/production/uploads/Procore_03a.png)
+
 The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support. We provide the complete engineering services.
 
 **Technologies: **Java / Spring, S3, Consul, Spring Boot, multi-region Data Centre Support.
@@ -19,6 +21,8 @@ We have been providing the engineering services as well as leading the efforts t
 **Customer Location:** Europe
 
 ## Enterprise Search
+
+![](http://kazoup.com/wp-content/uploads/2014/12/Screen-Shot-2017-01-30-at-14.42.55-uai-1440x999.png)
 
 We provide a team that augments our customer's engineering team in building a Cloud Based Enterprise Search and File Management Solution. The solution features a number of discrete micro-services plug-ins which index files stored at various SaaS file storage solutions. Integrations into Office 365, Google Drive, Slack, Dropbox, One Drive and more.
 
