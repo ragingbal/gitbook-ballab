@@ -39,12 +39,12 @@ We have worked with the following technologies and implemented them within our s
 * Apache Ignite
 * Cloudera Kite SDK
 
-* * Avro, Parquet, ORC
+* Avro, Parquet, ORC
 * Apache Knox, Sentry and Ranger
 * Hive, Presto & Impala
 * Sqoop 
 * Cloudera Hue
 * Apache Spark
 
-**Java Spring** : Spring is our go-to framework when it comes to Java. We have extensive experience in Spring and have worked on projects built from the scratch or refactoring legacy JEE Applications to Spring Applications. Our extensive knowledge includes frameworks such as JPA and Spring Data, Hibernate, Spring Boot, Spring Cloud, Hazelcast and Spring HateOAS.
+
 
