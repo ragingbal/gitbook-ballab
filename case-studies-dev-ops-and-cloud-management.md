@@ -10,19 +10,25 @@ We now offer DevOps as a Service.
 
 ![](https://cdn-images-1.medium.com/max/1437/1*S2r17frm7U0MV9a0YPSFVw.png)
 
-[DISTRIBOOTED.com](http://distribooted.com) Combined point-and-click Application deployment and Cloud Management across multiple Cloud Providers. Launching in Alpha, Early October.
+[DISTRIBOOTED](http://distribooted.com) is an Application and Cloud Management Platform which aims to provide a single-pane-of glass for Deployment, Configuration, Management and Monitoring of Server Applications across multiple Cloud Providers.
+
+
+
+**Technologies:** Python, Ansible, Apache Ambari.
+
+**Customer Location:** UAE, Serbia, Switzerland
 
 ## GridMine
 
 ![](http://www.gridmine.com/images/gridmine5.png)
 
-GridMine provides 15-minute deployment of Big Data Hubs. Any GridMine cluster can be deployed across multiple Cloud Hosting providers, including Amazon AWS and Digital Ocean. Big Data hubs operated by GridMine support a wide and ever increasing range of Open Source framework and tools.
+[GridMine](http://gridmine.com) provides 15-minute deployment of Big Data Hubs. Any GridMine cluster can be deployed across multiple Cloud Hosting providers, including Amazon AWS and Digital Ocean. Big Data hubs operated by GridMine support a wide and ever increasing range of Open Source framework and tools.
 
-GridMine is based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics. \( [http://gridmine.com](http://gridmine.com) \).
+GridMine is based on our expertise in big-data and analytics to reduce the cost and time to delivery of big-data analytics.
 
 **Technologies:** Python, Ansible, Apache Ambari.
 
-Customer location : UAE, Serbia, Switzerland
+**Customer Location:** UAE, Serbia, Switzerland
 
 ## Dev Ops as a Service
 
