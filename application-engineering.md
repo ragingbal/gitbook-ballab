@@ -32,6 +32,7 @@ We have worked with the following technologies and implemented them within our s
 * InfluxDB, OpenTSDB
 * JMS, ActiveMQ, Firebase, Amazon SQS Slack
 * Elasticsearch & Solr
+* Graphana & Kibana
 
 **Hadoop Ecosystem**
 
