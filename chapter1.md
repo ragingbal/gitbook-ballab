@@ -34,6 +34,8 @@ We provide a team that augments our customer's engineering team in building a Cl
 
 ## Voice Publishing
 
+![](https://startit.rs/media/voicebo.jpg)
+
 A voice publishing social network which is available on IoS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc.
 
 **Technologies: **PHP, IoS, Android, On Device Audio Compression, REST APIs, Google Maps
