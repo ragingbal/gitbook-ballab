@@ -24,7 +24,13 @@ Customer location : UAE, Serbia, Switzerland
 
 ## Dev Ops as a Service
 
-We now offer Dev Ops and Cloud Migration consulting as a service independent of our Application Developers. The first customers have been European Financial Institutions and IoT service providers. On the FinTech side the services are often around Big Data Implementations both In-House and in the Cloud. For IoT
+We now offer Dev Ops and Cloud Migration consulting as a service independent of our Application Developers. The first customers have been European Financial Institutions and IoT service providers. On the FinTech side the services are often around Big Data Implementations both In-House and in the Cloud. Within the IoT space our engagements are around designing scalable high speed ingestion and analytics pipelines and 24x7 Operations Support
+
+**Technologies:** Python, Ansible, various Cloud Management Tools.
+
+**Customer Location:** Europe, AsiaPac
+
+
 
 ## 
 
