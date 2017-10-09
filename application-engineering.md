@@ -38,13 +38,12 @@ We have worked with the following technologies and implemented them within our s
 * Apache Kafka, Flume, Oozie.
 * Apache Ignite
 * Cloudera Kite SDK
-
 * Avro, Parquet, ORC
 * Apache Knox, Sentry and Ranger
 * Hive, Presto & Impala
 * Sqoop 
 * Cloudera Hue
-* Apache Spark
+* Apache Spark and Storm
 
 
 
