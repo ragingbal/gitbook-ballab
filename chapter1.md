@@ -26,8 +26,6 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 **Customer location** : US / Australia
 
-## 
-
 ## Crowd Funding
 
 A "crowd-funding for good" service which works extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
