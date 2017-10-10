@@ -8,7 +8,7 @@ Mobile Banking  Application for a Digital Only Bank. Application provided the co
 
 **Customer Location:** UK, Italy
 
-**Customer Type:** Publicly Quoted Mobile Banking Company
+**Customer Profile:** Publicly Quoted Mobile Banking Company
 
 ## Voice Publishing
 
@@ -16,7 +16,7 @@ A voice publishing social network which is available on ioS, Android, Desktop an
 
 **Customer Location:** Australia
 
-**Customer Type:** Startup
+**Customer Profile:** Startup
 
 ## IoT Monitoring & Alerting
 
@@ -24,7 +24,7 @@ Companion Application for an IoT solutions vendor. The IoS application implement
 
 **Customer Location:** Switzerland
 
-**Customer Type:** Well established IoT Company
+**Customer Profile:** Well established IoT Company
 
 ## 
 
