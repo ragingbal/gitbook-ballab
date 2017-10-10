@@ -16,6 +16,8 @@ We now offer DevOps as a Service.
 
 **Customer Location:** UAE, Serbia, Switzerland
 
+**Customer Profile:** In-House Product
+
 ## GridMine
 
 ![](http://www.gridmine.com/images/gridmine5.png)
@@ -28,7 +30,7 @@ GridMine is based on our expertise in big-data and analytics to reduce the cost 
 
 **Customer Location:** UAE, Serbia, Switzerland
 
-
+**Customer Profile:** In-House Product
 
 # BI & Analytics Hub
 
@@ -38,7 +40,7 @@ A leading BI and Big Data Analytics consultancy contracted us to build their Big
 
 **Customer Location:** Europe
 
-
+**Customer Profile:** Well established BI & Data Science Company
 
 ## Dev Ops as a Service
 
@@ -47,6 +49,8 @@ We now offer Dev Ops and Cloud Migration consulting as a service independent of 
 **Technologies:** Python, Ansible, various Cloud Management Tools.
 
 **Customer Location:** Europe, AsiaPac
+
+**Customer Profile:** Fortune 500 Companies - Start-Ups.
 
 ## 
 

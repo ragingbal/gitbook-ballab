@@ -24,6 +24,8 @@ We have been leading the efforts to refactor a large and well established IoT so
 
 **Customer Location:** Europe
 
+**Customer Profile:** Well established IoT Company
+
 ## Enterprise Search
 
 ![](http://kazoup.com/wp-content/uploads/2014/12/Screen-Shot-2017-01-30-at-14.42.55-uai-1440x999.png)
@@ -33,6 +35,8 @@ We provide a team that augments our customer's engineering team in building a Cl
 **Technologies:** GoLang, Microservices
 
 **Customer Location:** UK
+
+**Customer Profile:** Corporate spin-off
 
 ## Video Search and Community
 
@@ -44,6 +48,8 @@ We are building a curated video social network. Underlying the application is a 
 
 **Customer Location:** UK
 
+**Customer Profile:** Start-Up
+
 ## Voice Publishing
 
 ![](https://startit.rs/media/voicebo.jpg)
@@ -53,6 +59,8 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 **Technologies: **PHP, IoS, Android, On Device Audio Compression, REST APIs, Google Maps
 
 **Customer Location** : US / Australia
+
+**Customer Profile:** Start-Up
 
 ## Crowd Funding
 
@@ -64,6 +72,8 @@ A "crowd-funding for good" service which worked extensively with corporate spons
 
 **Customer location** : UK
 
+**Customer Profile:** Start-Up
+
 ## Sharing Economy
 
 ![](/assets/TrustedSwap.png)
@@ -73,6 +83,8 @@ An AirBnB like service but primarily for swapping holiday homes between homeowne
 **Technologies: **PHP, AngularJS, MySQL
 
 **Customer Location **: UK
+
+**Customer Profile:** Start-Up
 
 ## 
 
