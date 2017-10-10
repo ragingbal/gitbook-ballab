@@ -6,6 +6,8 @@ The GridMine technology has since been leveraged into [DISTRIBOOTED](http://dist
 
 We now offer DevOps as a Service.
 
+---
+
 ## DISTRIBOOTED : The First App Store for the Cloud
 
 ![](https://cdn-images-1.medium.com/max/1437/1*S2r17frm7U0MV9a0YPSFVw.png)
@@ -17,6 +19,8 @@ We now offer DevOps as a Service.
 **Customer Location:** UAE, Serbia, Switzerland
 
 **Customer Profile:** In-House Product
+
+---
 
 ## GridMine
 
@@ -32,6 +36,8 @@ GridMine is based on our expertise in big-data and analytics to reduce the cost 
 
 **Customer Profile:** In-House Product
 
+---
+
 # BI & Analytics Hub
 
 A leading BI and Big Data Analytics consultancy contracted us to build their Big Data Hub for their staff of Data Scientists. The Hub hosts not only a Hadoop based infrastructure but includes Workbenches, Container Infrastructure for their custom applications and 3rd Party Products for Data and Document Analysis,. The Hub has been in use since late 2015 and is now being used as a template to create similar Hubs for their customers across Europe.
@@ -41,6 +47,8 @@ A leading BI and Big Data Analytics consultancy contracted us to build their Big
 **Customer Location:** Europe
 
 **Customer Profile:** Well established BI & Data Science Company
+
+---
 
 ## Dev Ops as a Service
 
