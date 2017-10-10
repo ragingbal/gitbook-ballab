@@ -22,14 +22,15 @@ We provide DevOps Consulting and Operations Management as a Service.
 We have implemented solutions on the following Clouds
 
 * Amazon AWS
-* Microsoft Azuer
+* Microsoft Azure
 * Linode
 * Digital Ocean
 * VultR
-* DataCenterd
+* DataCentered
 * Exoscale
 * Safe Swiss Cloud
 * Cloud Stack and Open Stack
+* Upcloud
 
 The following are a few of the technologies we have used
 
