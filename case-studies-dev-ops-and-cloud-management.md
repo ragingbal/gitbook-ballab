@@ -12,8 +12,6 @@ We now offer DevOps as a Service.
 
 [DISTRIBOOTED](http://distribooted.com) is an Application and Cloud Management Platform which aims to provide a single-pane-of glass for Deployment, Configuration, Management and Monitoring of Server Applications across multiple Cloud Providers.
 
-
-
 **Technologies:** Python, Ansible, Apache Ambari.
 
 **Customer Location:** UAE, Serbia, Switzerland
@@ -29,6 +27,18 @@ GridMine is based on our expertise in big-data and analytics to reduce the cost 
 **Technologies:** Python, Ansible, Apache Ambari.
 
 **Customer Location:** UAE, Serbia, Switzerland
+
+
+
+# BI & Analytics Hub
+
+A leading BI and Big Data Analytics consultancy contracted us to build their Big Data Hub for their staff of Data Scientists. The Hub hosts not only a Hadoop based infrastructure but includes Workbenches, Container Infrastructure for their custom applications and 3rd Party Products for Data and Document Analysis,. The Hub has been in use since late 2015 and is now being used as a template to create similar Hubs for their customers across Europe.
+
+**Technologies:** Python, Ansible, Apache Ambari, MeteorJS, ElasticSearch \(Hive integrated\), Accumulo
+
+**Customer Location:** Europe
+
+
 
 ## Dev Ops as a Service
 
