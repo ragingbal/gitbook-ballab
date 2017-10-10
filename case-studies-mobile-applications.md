@@ -18,7 +18,7 @@ A voice publishing social network which is available on ioS, Android, Desktop an
 
 Companion Application for an IoT solutions vendor. The IoS application implements their Alerting and Notification solution with integration with Secured communication over Firebase.
 
-Customer Location: Switzerland
+**Customer Location:** Switzerland
 
 ## 
 
