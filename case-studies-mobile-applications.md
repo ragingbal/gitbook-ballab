@@ -16,6 +16,8 @@ Mobile Banking  Application for a Digital Only Bank. Application provided the co
 
 ## Voice Publishing
 
+![](https://startit.rs/media/voicebo.jpg)
+
 A voice publishing social network which is available on ioS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with facebook, server side streaming etc \( [http://www.voicebo.com](http://www.voicebo.com) \). Application features on-device recording, audio compression, real time updates, map and social network iintegration.
 
 **Customer Location:** Australia
