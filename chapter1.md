@@ -12,6 +12,8 @@ The product provides the infrastructure for managing large international constru
 
 **Customer Location** : US / Europe
 
+**Customer Profile:** Start-Up
+
 ## IoT & Refactoring
 
 ![](/assets/FMP_mediaflow_chart.png)
@@ -36,7 +38,7 @@ We provide a team that augments our customer's engineering team in building a Cl
 
 ![](/assets/HighlyRated.png)
 
-We are building a curated video social network. Underlying the application is a 'Find and Curate' Bot that finds and categorises trending videos across multiple video sharing websites. 
+We are building a curated video social network. Underlying the application is a 'Find and Curate' Bot that finds and categorises trending videos across multiple video sharing websites.
 
 **Technologies:** Python, Microservices, ML augmented Crawler and Curation.
 
