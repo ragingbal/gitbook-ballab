@@ -4,6 +4,8 @@ Having started out building Big Data Solutions we now offer Big Data consulting 
 
 We have worked on building platforms for large scale analytics using the Hadoop Ecosystem as well as built Real Time data processing systems for the Online Advertising  and Banking Industry.
 
+---
+
 ## GridMine
 
 ![](http://www.gridmine.com/images/product/clusterDesign.png)

@@ -14,6 +14,8 @@ The product provides the infrastructure for managing large international constru
 
 **Customer Profile:** Start-Up
 
+---
+
 ## IoT & Refactoring
 
 ![](/assets/FMP_mediaflow_chart.png)
@@ -25,6 +27,8 @@ We have been leading the efforts to refactor a large and well established IoT so
 **Customer Location:** Europe
 
 **Customer Profile:** Well established IoT Company
+
+---
 
 ## Enterprise Search
 
@@ -38,6 +42,8 @@ We provide a team that augments our customer's engineering team in building a Cl
 
 **Customer Profile:** Corporate spin-off
 
+---
+
 ## Video Search and Community
 
 ![](/assets/HighlyRated.png)
@@ -49,6 +55,8 @@ We are building a curated video social network. Underlying the application is a 
 **Customer Location:** UK
 
 **Customer Profile:** Start-Up
+
+---
 
 ## Voice Publishing
 
@@ -62,6 +70,8 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 **Customer Profile:** Start-Up
 
+---
+
 ## Crowd Funding
 
 ![](http://www.goodnet.org/photos/620x0/24301.jpg)
@@ -73,6 +83,8 @@ A "crowd-funding for good" service which worked extensively with corporate spons
 **Customer location** : UK
 
 **Customer Profile:** Start-Up
+
+---
 
 ## Sharing Economy
 
