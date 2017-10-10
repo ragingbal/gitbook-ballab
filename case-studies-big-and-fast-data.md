@@ -16,6 +16,8 @@ GridMine is based on our expertise in big-data and analytics to reduce the cost 
 
 **Customer Location:** UAE, Serbia, Switzerland
 
+---
+
 ## Customer Segmentation & Analytics
 
 ![](http://finovate.com/wp-content/uploads/2015/01/d8b0af3e47fbaaea5daebb3b86d19f4e269648884.jpg)
@@ -27,6 +29,8 @@ A platform for financial transaction processing, customer segmentation and predi
 **Customer Location:** UK / Germany
 
 **Customer Profile:** Start-Up. Products installed at leading European and Asian Banks.
+
+---
 
 ## High-Performance Traffic Management
 
@@ -40,6 +44,8 @@ We provide the CTO services and the technology team. The customer has scaled to 
 
 **Customer Profile:** Well established affiliate marketing company
 
+---
+
 ## Loyalty Solution for Banks
 
 Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. One of the few customers who has a parallel team of 60 engineers with ours.
@@ -47,6 +53,8 @@ Transaction Analytics, location based offers and loyalty solutions. Leading bank
 **Technologies Used:** Hive, ML and NLP Algorithms,  ElasticSearch, Java \(Spring\)
 
 **Customer location:** UK, Italy
+
+---
 
 ## Advertising DMP Platform
 
@@ -60,6 +68,8 @@ DMP Platform for processing 2-3 billion clickstream events in a day with real-ti
 
 **Customer Profile:** Start-Up.
 
+---
+
 ## ML Based Image Rating and Categorization
 
 ![](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/600629_343930645712285_582335601_n.png?oh=1c4597015bdae9592f6c77302ed26a4e&oe=5A3B2EE3)
@@ -71,6 +81,8 @@ An internal project for large scale image classification both in categorisation 
 **Customer Location:** Switzerland
 
 **Customer Profile:** In-House Product.
+
+---
 
 ## Infrastructure Design FinTech, AdTech & IoT
 
@@ -84,6 +96,8 @@ We have offered consulting to multiple Business Intelligence and Analytics bouti
 
 **Customer Profile:** Fortune 500 Companies - Start-Ups.
 
+---
+
 ## ML Based Transaction Categorisation
 
 For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
@@ -93,6 +107,8 @@ For a major European Bank we developed a system to automatically classify transa
 **Customer Location:** Europe
 
 **Customer Profile:** Leading European Bank
+
+---
 
 ## Customer Segmentation and Analytics Dashboard
 
