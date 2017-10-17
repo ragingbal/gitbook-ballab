@@ -7,7 +7,7 @@ Every day, we work with our clients to produce high end technology products givi
 Learn how some of our clients have benefited from working with us by reading their stories.
 
 ```
-                                       or - pick version above or below
+                                 or - pick version above or below
 ```
 
 Browse our library of technical case studies for recent examples of our work, that has helped business across a range of industry and verticals.
