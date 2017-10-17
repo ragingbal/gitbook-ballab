@@ -1,2 +1,2 @@
-[![](/assets/SM portfolio 2.png)](http://ballab.com/content/book/case-studies-big-and-fast-data.html)
+[![](/assets/SM portfolio 2.png)](https://www.disribooted.com)
 
