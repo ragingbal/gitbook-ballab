@@ -1,14 +1,22 @@
 # Case Studies: Applications
 
-The following is a selection of some of the consumer facing applications we have created over the past years. The products have been built on a heterogeneous platform mix of PHP, Python and Java \( Spring \)
+The following is a selection of some of the consumer facing applications we have created over the past years. 
+
+The products have been built on a heterogeneous platform mix of PHP, Python and Java \( Spring \)
 
 ## Design Management
 
 ![](https://procore-marketplace.s3.amazonaws.com/production/uploads/Procore_03a.png)
 
-The product provides the infrastructure for managing large international construction project RFIs and RFPs. The core workflow support is augmented with High Speed File transfer mechanisms. The service is hosted in multiple data cetnters for supporting Privacy Regulations. Has integrated subscription management and Stripe Payment support. We provide the complete engineering services.
+Tonic DM is a cloud hosted and easy-to-use document management system for the design side of the building industry, including architects, interior designers, landscape architects, engineers and design consultants
 
-**Technologies: **Java / Spring, S3, Consul, Spring Boot, multi-region Data Centre Support.
+The product provides the infrastructure for managing large international construction project RFIs and RFPs.
+
+The core workflow support is augmented with high speed file transfer mechanisms. The service is hosted in multiple data centres for supporting privacy regulations.
+
+We have integrated subscription management systems to the platform, as well as Stripe payment support and Microsoft Office 365 for streamlining e-mail correspondence.
+
+**Technologies: **Java / Spring, S3, Consul, Spring Boot, multi-region Data Centre Support, Redis.
 
 **Customer Location** : US / Europe
 
@@ -20,7 +28,9 @@ The product provides the infrastructure for managing large international constru
 
 ![](/assets/FMP_mediaflow_chart.png)
 
-We have been leading the efforts to refactor a large and well established IoT solution. Our efforts are focused on splitting a monolithic J2EE application into a modern micro-services and Spring Boot based architecture. We work along side the customers in-house team who focus on core road map extension.
+We have been leading the efforts to refactor a large and well established IoT solution. Our efforts are focused on splitting a monolithic J2EE application into a modern micro-services and Spring Boot based architecture.
+
+We work along side the customers in-house team who focus on core road map extension.
 
 **Technologies: **Java / Spring, Spring Boot, J2EE to Spring Data Conversion, DevOps and Jenkins Pipelines, Ansible based automation.
 
@@ -34,7 +44,11 @@ We have been leading the efforts to refactor a large and well established IoT so
 
 ![](http://kazoup.com/wp-content/uploads/2014/12/Screen-Shot-2017-01-30-at-14.42.55-uai-1440x999.png)
 
-We provide a team that augments our customer's engineering team in building a Cloud Based Enterprise Search and File Management Solution. The solution features a number of discrete micro-services plug-ins which index files stored at various SaaS file storage solutions. Integrations into Office 365, Google Drive, Slack, Dropbox, One Drive and more.
+We provide a team that augments our customer's engineering team in building a Cloud Based Enterprise Search and File Management Solution. 
+
+The solution features a number of discrete micro-services plug-ins which index files stored at various SaaS file storage solutions. 
+
+Integrations into Office 365, Google Drive, Slack, Dropbox, One Drive and more.
 
 **Technologies:** GoLang, Microservices
 
@@ -76,7 +90,9 @@ A voice publishing social network which is available on IoS, Android, Desktop an
 
 ![](http://www.goodnet.org/photos/620x0/24301.jpg)
 
-A "crowd-funding for good" service which worked extensively with corporate sponsors. Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
+A "crowd-funding for good" service which worked extensively with corporate sponsors. 
+
+Key features are extensive content and project management tools, extensive integration with social networks, custom analytics and payment method support \(Paypal and MangoPay\).
 
 **Technologies: **PHP, AngularJS, MySQL
 
@@ -90,7 +106,11 @@ A "crowd-funding for good" service which worked extensively with corporate spons
 
 ![](/assets/TrustedSwap.png)
 
-An AirBnB like service but primarily for swapping holiday homes between homeowners. Extensive integration with Linked-in which serves as a primary trust mechanism. Support for in-built social networking features, geolocation house profiles and communication system between transaction parties.
+An AirBnB like service but primarily for swapping holiday homes between homeowners.
+
+Extensive integration with Linked-in which serves as a primary trust mechanism.
+
+Support for in-built social networking features, geolocation house profiles and communication system between transaction parties.
 
 **Technologies: **PHP, AngularJS, MySQL
 
