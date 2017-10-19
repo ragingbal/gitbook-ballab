@@ -12,7 +12,6 @@ GridMine is our in-house project that makes Big Data accessible to everybody. No
 
 ![](http://www.gridmine.com/images/product/clusterDesign.png)
 
-  
 We have consolidated over 30 open source technologies such as Apache Hadoop, Spark, Storm etc, and have made a solution that provides seamless 15-minute deployment of Big Data Hubs.
 
 Any GridMine cluster can be deployed across multiple Cloud Hosting providers, including Amazon AWS and Digital Ocean. Big Data hubs operated by GridMine support a wide and ever increasing range of Open Source framework and tools.
@@ -61,7 +60,7 @@ We provide the CTO services and the technology team. The customer has scaled to 
 
 ## Loyalty Solution for Banks
 
-Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe. 
+Transaction Analytics, location based offers and loyalty solutions. Leading banking solutions company in Europe.
 
 One of the few customers who has a parallel team of 60 engineers with ours.
 
@@ -85,7 +84,7 @@ The product has successfully operated and has demonstrated an uplift in performa
 
 We have provided the CTO services as well as the technical team which built the product from the ground up.
 
-**Technologies Used:** Grizzly Web Server, Kafka, Apache Ignite, Cassandra, Hive, Java.
+**Technologies Used:** Grizzly Web Server, Kafka, Apache Ignite, Cassandra, Hadoop, Hive, Redis, ElasticSearch, Java
 
 **Customer Location:** UK, Spain
 
@@ -97,9 +96,9 @@ We have provided the CTO services as well as the technical team which built the 
 
 ![](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/600629_343930645712285_582335601_n.png?oh=1c4597015bdae9592f6c77302ed26a4e&oe=5A3B2EE3)
 
-An internal project for large scale image classification both in categorization and well as popularity measurement. 
+An internal project for large scale image classification both in categorization and well as popularity measurement.
 
-The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis. 
+The project demonstrated the technology to index billions of images and determine the image quality using large scale image crawling followed by statistical and semantic context analysis.
 
 IP has now been sold and is in the process of being re-purposed for an image recognition and copyright auditing vendor.
 
@@ -115,7 +114,7 @@ IP has now been sold and is in the process of being re-purposed for an image rec
 
 We have consulted to multiple Fortune 500 companies on the design and implementation of their Big Data and Development Infrastructure. Our consulting and advisory includes Solution Design, Tool Selection, White Paper and Roadmap Development, Implementation of Security and Governance and Data Lake Planning.
 
-We have offered consulting to multiple Business Intelligence and Analytics boutiques on implementing and standardising their in-house Data Platforms. 
+We have offered consulting to multiple Business Intelligence and Analytics boutiques on implementing and standardising their in-house Data Platforms.
 
 Our experience with Real Time and Big Data Solutions allows us to consult to other Engineering on how best to implement technologies such as Kafka, Apache Ignite or InfluxDB.
 
@@ -129,7 +128,7 @@ Our experience with Real Time and Big Data Solutions allows us to consult to oth
 
 ## ML Based Transaction Categorisation
 
-For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\). 
+For a major European Bank we developed a system to automatically classify transactions by Merchant Category. Our System proved to have an over 90% accuracy for categorising Merchants \( compared to &lt;50% using a framework based on Google's Merchant Database\).
 
 The transaction classification system is a core component underlying multiple solutions in Customer Segmentation, Marketing and Loyalty Management,
 
@@ -143,9 +142,9 @@ The transaction classification system is a core component underlying multiple so
 
 ## Customer Segmentation and Analytics Dashboard
 
-For a major Global Bank we developed a system segment customers based on their card transaction history. 
+For a major Global Bank we developed a system segment customers based on their card transaction history.
 
-The system analyzed 100s of Millions of Transactions to derive the basic segmentation Characteristics. 
+The system analyzed 100s of Millions of Transactions to derive the basic segmentation Characteristics.
 
 The Dashboard was capable of presenting the segmentation of over 20 Million Customers in real time.
 
