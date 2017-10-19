@@ -1,6 +1,8 @@
 # Case Studies: Mobile Applications
 
-The Mobile Applications we build are primarily extensions of our core product engineering efforts. We rarely handle Mobile only projects. Our team works on IoS and Android platforms and have worked on applications that include On-Device audio and video capture, social network integration, realtime notifications, charting and video editing.
+The Mobile Applications we build are primarily extensions of our core product engineering efforts. We rarely handle Mobile only projects. 
+
+Our team works on IoS and Android platforms and have worked on applications that include On-Device audio and video capture, social network integration, realtime notifications, charting and video editing.
 
 ---
 
@@ -18,7 +20,9 @@ Mobile Banking  Application for a Digital Only Bank. Application provided the co
 
 ![](https://startit.rs/media/voicebo.jpg)
 
-A voice publishing social network which is available on ioS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with facebook, server side streaming etc \( [http://www.voicebo.com](http://www.voicebo.com) \). Application features on-device recording, audio compression, real time updates, map and social network iintegration.
+A voice publishing social network which is available on ioS, Android, Desktop and Web. Other than the multi-channel offering it features a full scale social network, plug-in sign-on with Facebook, server side streaming etc \( [http://www.voicebo.com](http://www.voicebo.com) \). 
+
+Application features on-device recording, audio compression, real time updates, map and social network iintegration.
 
 **Customer Location:** Australia
 
