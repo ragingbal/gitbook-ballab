@@ -1,6 +1,4 @@
-this page is currently empty. i suggest adding the following:
-
-
+**this page is currently empty. i suggest adding the following:**
 
 ## Our services include
 
@@ -27,8 +25,6 @@ this page is currently empty. i suggest adding the following:
 
 Feel free to [contact us](http://ballab.com/content/book/contact-us.html) if you have any questions.
 
-
-
-**  
+**    
 **
 
