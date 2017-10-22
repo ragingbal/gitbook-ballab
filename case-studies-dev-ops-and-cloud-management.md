@@ -1,6 +1,6 @@
 # Case Studies: Dev Ops and Cloud Management
 
-Our expertise in Cloud Management and Dev Ops originates from our utilisation of the AWS Cloud for our projects since 2010. Since then we have managed multiple project on AWS some of which have hosted 100s of instances in the cloud. 
+Our expertise in Cloud Management and Dev Ops originates from our utilisation of the AWS Cloud for our projects since 2010. Since then we have managed multiple project on AWS some of which have hosted 100s of instances in the cloud.
 
 Our work on Big Data provided the next kick as we implemented the Cross Cloud Big Data deployment solution [GridMine](http://gridmine.com).
 
@@ -36,7 +36,7 @@ Visit [distribooted.com](https://www.distribooted.com) to get started or [contac
 
 ![](http://www.gridmine.com/images/gridmine5.png)
 
-[GridMine](http://gridmine.com) provides 15-minute deployment of Big Data Hubs. Any GridMine cluster can be deployed across multiple Cloud Hosting providers, including Amazon AWS and Digital Ocean. 
+[GridMine](http://gridmine.com) provides 15-minute deployment of Big Data Hubs. Any GridMine cluster can be deployed across multiple Cloud Hosting providers, including Amazon AWS and Digital Ocean.
 
 Big Data hubs operated by GridMine support a wide and ever increasing range of Open Source framework and tools.
 
