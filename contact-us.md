@@ -6,13 +6,11 @@ Our offices are right in the Center of Belgrade at the Trg Republike.
 
 ## Our Address
 
-**Bal Lab D.O.O**
+**Bal Lab GmbH**
 
-6th Floor, Kneza Mihaila 10
+Buckhauserstrasse 37
 
-Belgrade,
+8048 Zurich,
 
-11 000 Serbia
-
-[![](/assets/bl-map.png)](https://www.google.com/maps/d/u/0/viewer?mid=1CW6G1AlsDPiZJ6dwpdCpsGYjUsU&ll=44.81597184014468%2C20.45946413435854&z=20)
+Switzerland
 
